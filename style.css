@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+}
+.section1{
+    background-color:  #A0D5F0;
+    display: block;
+    height: 300px;
+    width: 100%;
+    border-radius: 4%;
+
+}
+.section2{
+    margin-top: 10px;
+    border-radius: 4%;
+    background-color:  #86D3D9;
+    display: flex;
+    height: 250px;
+    width: 100%;
+    justify-content: center;
+    padding-top: 20px;
+}
+h1{
+    margin: 0px;
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    color: #000000;
+}
+h2{
+    text-align: center;
+    font-family: 'Handjet', cursive;
+    padding-top: 10px;
+}
+.profile-pic{
+    height: 100px;
+    vertical-align: centre;
+    border-radius: 50%;
+    
+}
+.click{
+    color:#5b7190;
+}
+body{
+    margin: 0px;
+}
+span{
+    text-decoration: underline;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.section3{
+    height: auto;
+    background-color: #86A8D9;
+    margin-top: 10px;
+    border-radius: 4%;    
+}
+.parent{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: auto;
+}
+.project-title{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px;
+}
+.parent-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.project-discription{
+    text-align: left;
+}
+div>p{
+    background-color: #A0D5F0;
+    padding: 10px;
+    border-radius: 10%;
+    font-family: 'Quicksand', sans-serif;
+}
+.sub-flex{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.hi{
+    font-family: 'Dosis', sans-serif;
+}
+.proj{
+    font-family: 'Dosis', sans-serif;
+    text-decoration:underline;
+    padding: 10px;
+}
+footer{
+    color: white;
+}
